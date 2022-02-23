@@ -11,3 +11,4 @@ spring.datasource.password=
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
+```
